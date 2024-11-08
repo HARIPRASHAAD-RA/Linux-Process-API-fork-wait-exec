@@ -2,7 +2,9 @@
 Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
 Operating systems Lab exercise
-# DATE 30-08-2024
+## DATE :30-08-2024
+## NAME: HARIPRASHAAD.RA 
+## REG.NO: 212223040060
 
 
 # AIM:
