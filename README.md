@@ -49,7 +49,7 @@ int main(void)
 	return 0; }
 ```
 
-##OUTPUT
+## OUTPUT
 
 ```
 $ ./pidcheck.o 
@@ -118,7 +118,7 @@ printf("Running ps with execlp. Now with path specified\n");
         exit(0);}
 ```
 
-##OUTPUT
+## OUTPUT
 
 ```
 $ ./execcheck2.o 
